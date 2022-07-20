@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(24, 16, 32);
+    /* display: flex;
+    justify-content: space-evenly; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color:aliceblue;
+    
+}
+
+.fetchPic {
+    display: grid;
+    grid-template-rows: 2;
+    ;
+}
+
+button {
+    width: 100%;
+}
+
+.cards {
+
+    background-color:rgba(231, 91, 56, 0.418)
+}
